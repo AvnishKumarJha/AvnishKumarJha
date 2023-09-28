@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avnish Kumar Jha</h1>
-<h3 align="center">frontend developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 - 📫 How to reach me **avnishjha36@gmail.com**
 
